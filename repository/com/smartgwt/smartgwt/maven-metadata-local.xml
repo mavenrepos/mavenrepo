@@ -3,10 +3,11 @@
   <groupId>com.smartgwt</groupId>
   <artifactId>smartgwt</artifactId>
   <versioning>
-    <release>4.1-d20140122</release>
+    <release>4.1-test</release>
     <versions>
       <version>4.1-d20140122</version>
+      <version>4.1-test</version>
     </versions>
-    <lastUpdated>20140124160106</lastUpdated>
+    <lastUpdated>20140124163536</lastUpdated>
   </versioning>
 </metadata>

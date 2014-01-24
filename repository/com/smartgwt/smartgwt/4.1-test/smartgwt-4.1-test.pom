@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.smartgwt</groupId>
   <artifactId>smartgwt</artifactId>
-  <version>4.1-d20140122</version>
+  <version>4.1-test</version>
   <description>POM was created from install:install-file</description>
 </project>
